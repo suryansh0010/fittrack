@@ -34,4 +34,4 @@ import {
       color: "#FF9AD5",
       lightColor: "#FEF3F9",
     },
-  ]; 
+  ];
